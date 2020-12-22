@@ -1,4 +1,4 @@
-# lstm-and-word2vec-based-music-generation-system
+# lstm-and-word2vec-based-music-generation
  
 This is a simple recurrent neural network to generate music.
 <br />
